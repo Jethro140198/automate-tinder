@@ -11,6 +11,6 @@ References: Youtube
  
  I watched the videos and understood the ideas behind them first, then I coded on my own. Please feel free to take a look and comment on how I can improve on my code :-)
  
- Note: I requires the following
+ Note: It requires the following
  1) chromedriver (download link: https://chromedriver.chromium.org/)
  2) selenium (install via your computer's terminal)
